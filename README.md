@@ -4,7 +4,7 @@ CBB-EEProto
 This repository contains the design files for the Logic Supply CBB-EEProto Cape for the 
 BeagleBone and BeagleBone Black. 
 
-Check out the CBB-EEProto Cape at http://www.logicsupply.com/products/cbb_eeproto
+Check out the CBB-EEProto Cape at http://www.logicsupply.com/cbb-eeproto/
 
 ----
 
